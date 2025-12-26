@@ -20,5 +20,3 @@ It allows users to add, view, and delete notes in a clean and responsive UI.
 - JavaScript (ES6)
 
 ---
-
-## 📂 Project Structure
