@@ -18,5 +18,3 @@ It allows users to add, view, and delete notes in a clean and responsive UI.
 - React (useState)
 - Tailwind CSS
 - JavaScript (ES6)
-
----
